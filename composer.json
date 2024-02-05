@@ -15,15 +15,15 @@
     },
     "require": {
         "php": ">=7.4",
-        "guzzlehttp/guzzle": ">=6.0",
+        "guzzlehttp/guzzle": ">=7.2",
         "kubinyete/assertation": "^1.0",
-        "psr/log": "^1.1",
+        "psr/log": "^2.0",
         "symfony/polyfill-php81": "^1.28",
         "symfony/polyfill-php80": "^1.28"
     },
     "require-dev": {
         "symfony/var-dumper": "^5.4",
-        "fakerphp/faker": "^1.23",
+        "fakerphp/faker": "^1.9.1",
         "phpunit/phpunit": "^9.6",
         "phpunit/php-code-coverage": "^9.2.13"
     }
